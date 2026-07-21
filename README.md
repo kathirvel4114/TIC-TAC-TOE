@@ -1,5 +1,6 @@
 # Tic Tac Toe in C
 
+## Contributors: Kalyani , Kathirvel
 ## Features
 - Player vs Player
 - Player vs AI
